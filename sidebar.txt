@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sjw:home|Door43 (sjw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sjw|d43-sjw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sjw/archive/master.zip|d43-sjw.zip]]
+
+**Recent Changes**
+{{changes>ns = sjw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sjw|Ethnologue data]]
+
